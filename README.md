@@ -14,6 +14,7 @@ Outputs detailed, merged, and summarized results in Excel.
 Includes cost breakdowns and total metrics.
 
 Technologies Used
+
 Python 3
 
 PuLP: Linear programming solver.
@@ -25,6 +26,7 @@ openpyxl: Excel file handling and formatting.
 JSON: Parsing structured transport data.
 
 Files Needed
+
 camp.csv — Contains demand per relief camp and distances between stations and camps.
 
 station.csv — Defines storage capacity and available transport modes at supply stations.
