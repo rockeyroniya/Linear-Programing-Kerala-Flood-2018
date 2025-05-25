@@ -1,0 +1,10 @@
+mode,capacity,fuel_cost_per_km,labour_cost_per_km,rental_cost_per_km,total_cost_per_km
+Tata Ace,800,35,10,20,65
+Pickup Truck,1300,50,15,30,95
+Mini Truck,2500,60,20,50,130
+Tempo,600,30,8,15,53
+Jeep,600,30,15,20,65
+Boat,800,75,30,40,145
+Helicopter,700,2500,1200,500,4200
+Large Truck,10000,100,40,75,215
+Small Boat (Canoe),300,30,10,20,60

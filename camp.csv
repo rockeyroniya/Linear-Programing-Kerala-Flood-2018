@@ -1,0 +1,127 @@
+From,To,distance_km,camp_location,no_of_people,demand_kg
+Thampanoor,Chackai,2.1,St. Antony’s Church,150,3000
+Thampanoor,Kowdiar,3.5,Kowdiar Auditorium,120,2400
+Thampanoor,Vazhuthacaud,2.9,Vazhuthacaud High School,180,3600
+Thampanoor,Pattom,2.7,Pattom Parish Hall,200,4000
+Thampanoor,Sreekariyam,4,Sreekariyam Community Center,140,2800
+Thampanoor,Vellayambalam,3.2,Vellayambalam School,160,3200
+Thampanoor,Karamana,5.8,Karamana Church,110,2200
+Thampanoor,Poojappura,6.1,Poojappura Auditorium,170,3400
+Thampanoor,Vattiyoorkavu,7.4,Vattiyoorkavu School,130,2600
+Chinnakada,Kadappakada,3.4,Kadappakada Temple,200,4000
+Chinnakada,Sakthikulangara,9.8,Sakthikulangara High School,140,2800
+Chinnakada,Paravur,11.6,Paravur Church,160,3200
+Chinnakada,Kottiyam,8.2,Kottiyam Community Hall,180,3600
+Chinnakada,Karunagappally,14.9,Karunagappally Parish Hall,220,4400
+Chinnakada,Punalur,20.1,Punalur School,190,3800
+Chinnakada,Kundara,14.7,Kundara Auditorium,150,3000
+Chinnakada,Anchal,24.8,Anchal Temple,170,3400
+Chinnakada,Chavara,19.9,Chavara School,200,4000
+Pandalam,Adoor,19.2,Adoor Community Center,130,2600
+Pandalam,Ranni,39.4,Ranni Church,150,3000
+Pandalam,Konni,34.8,Konni Auditorium,140,2800
+Pandalam,Thiruvalla,25.7,Thiruvalla School,200,4000
+Pandalam,Mallappally,29.9,Mallappally Temple,180,3600
+Pandalam,Kozhencherry,24.3,Kozhencherry Parish Hall,160,3200
+Pandalam,Pathanapuram,19.8,Pathanapuram School,170,3400
+Pandalam,Niranam,24.1,Niranam Community Hall,200,4000
+Pandalam,Kadapra,19.3,Kadapra Church,190,3800
+Ambalappuzha,Haripad,10.2,Haripad Temple,150,3000
+Ambalappuzha,Cherthala,12.8,Cherthala Community Hall,120,2400
+Ambalappuzha,Kayamkulam,17.6,Kayamkulam School,200,4000
+Ambalappuzha,Mavelikkara,14.3,Mavelikkara Parish Hall,180,3600
+Ambalappuzha,Kuttanad,19,Kuttanad Auditorium,160,3200
+Ambalappuzha,Thiruvizha,14.1,Thiruvizha School,170,3400
+Ambalappuzha,Mararikulam,12.3,Mararikulam Church,140,2800
+Ambalappuzha,Punnapra,10.4,Punnapra High School,150,3000
+Ambalappuzha,Arthunkal,19.6,Arthunkal Temple,180,3600
+Changanassery,Pala,26.1,Pala Auditorium,170,3400
+Changanassery,Ettumanoor,29.7,Ettumanoor School,150,3000
+Changanassery,Vaikom,30.4,Vaikom Temple,140,2800
+Changanassery,Kanjirappally,35.2,Kanjirappally Parish Hall,200,4000
+Changanassery,Kumarakom,31.8,Kumarakom Auditorium,180,3600
+Changanassery,Manarcad,26.2,Manarcad Community Hall,160,3200
+Changanassery,Ponkunnam,20.8,Ponkunnam School,170,3400
+Changanassery,Erattupetta,25.6,Erattupetta Temple,150,3000
+Changanassery,Kaduthuruthy,31.2,Kaduthuruthy Church,140,2800
+Munnar,Thodupuzha,31,Thodupuzha School,200,4000
+Munnar,Kattappana,35.9,Kattappana Temple,180,3600
+Munnar,Nedumkandam,40.5,Nedumkandam Auditorium,160,3200
+Munnar,Adimali,31.4,Adimali School,170,3400
+Munnar,Devikulam,40.2,Devikulam Temple,150,3000
+Munnar,Peermade,45.7,Peermade Auditorium,130,2600
+Munnar,Vandiperiyar,40.6,Vandiperiyar School,160,3200
+Munnar,Kumily,51.3,Kumily Community Hall,200,4000
+Munnar,Marayur,56,Marayur Temple,150,3000
+Fort Kochi,Aluva,29.7,Aluva Parish Hall,120,2400
+Fort Kochi,Kakkanad,25.5,Kakkanad High School,130,2600
+Fort Kochi,Perumbavoor,21,Perumbavoor Temple,140,2800
+Fort Kochi,Muvattupuzha,25.3,Muvattupuzha Community Hall,150,3000
+Fort Kochi,Angamaly,20.2,Angamaly School,160,3200
+Fort Kochi,Kothamangalam,15,Kothamangalam Auditorium,200,4000
+Fort Kochi,Paravur,21.4,Paravur Church,170,3400
+Fort Kochi,Thrippunithura,15.5,Thrippunithura School,180,3600
+Fort Kochi,Vypin,10.1,Vypin Community Hall,150,3000
+Guruvayur,Chalakudy,26.1,Chalakudy Church,140,2800
+Guruvayur,Kodungallur,21,Kodungallur School,160,3200
+Guruvayur,Irinjalakuda,12.4,Irinjalakuda Auditorium,180,3600
+Guruvayur,Kunnamkulam,15.8,Kunnamkulam Parish Hall,150,3000
+Guruvayur,Wadakkanchery,18.2,Wadakkanchery School,170,3400
+Guruvayur,Puthukkad,22,Puthukkad Temple,140,2800
+Guruvayur,Mala,28.6,Mala Community Hall,160,3200
+Guruvayur,Chavakkad,19.1,Chavakkad School,180,3600
+Guruvayur,Ollur,23.5,Ollur Auditorium,150,3000
+Ottapalam,Mannarkkad,10,Mannarkkad School,200,4000
+Ottapalam,Chittur,15.5,Chittur Temple,180,3600
+Ottapalam,Shoranur,18.5,Shoranur High School,170,3400
+Ottapalam,Alathur,22,Alathur Auditorium,160,3200
+Ottapalam,Pattambi,20,Pattambi Church,130,2600
+Ottapalam,Nenmara,19.5,Nenmara School,150,3000
+Ottapalam,Cherpulassery,25,Cherpulassery Community Hall,200,4000
+Ottapalam,Kollengode,23,Kollengode School,140,2800
+Ottapalam,Palakkad Town,15,Palakkad Town Hall,170,3400
+Manjeri,Perinthalmanna,15.3,Perinthalmanna Church,160,3200
+Manjeri,Nilambur,18.6,Nilambur Auditorium,170,3400
+Manjeri,Tirur,13.9,Tirur School,150,3000
+Manjeri,Ponnani,16.5,Ponnani Temple,200,4000
+Manjeri,Kondotty,14.3,Kondotty Community Hall,160,3200
+Manjeri,Kottakkal,17.7,Kottakkal Auditorium,140,2800
+Manjeri,Malappuram Town,21.4,Malappuram Town Hall,150,3000
+Manjeri,Areekode,22.3,Areekode School,130,2600
+Manjeri,Edappal,20.8,Edappal Temple,170,3400
+Feroke,Kunnamangalam,15.2,Kunnamangalam School,200,4000
+Feroke,Vadakara,14.8,Vadakara Church,180,3600
+Feroke,Koyilandy,12.9,Koyilandy Auditorium,170,3400
+Feroke,Balussery,13.6,Balussery School,160,3200
+Feroke,Thamarassery,17.1,Thamarassery Temple,140,2800
+Feroke,Mukkam,15.3,Mukkam High School,150,3000
+Feroke,Perambra,18.4,Perambra School,160,3200
+Feroke,Ramanattukara,20.7,Ramanattukara Auditorium,180,3600
+Feroke,Kozhikode Town,25,Kozhikode Town Hall,200,4000
+Kalpetta,Sulthan Bathery,19.8,Sulthan Bathery School,160,3200
+Kalpetta,Mananthavady,22.4,Mananthavady Temple,150,3000
+Kalpetta,Meenangadi,14.6,Meenangadi High School,170,3400
+Kalpetta,Vythiri,23.8,Vythiri School,140,2800
+Kalpetta,Panamaram,18.5,Panamaram Community Hall,130,2600
+Kalpetta,Pulpally,15.2,Pulpally School,180,3600
+Kalpetta,Thirunelly,17.7,Thirunelly Temple,160,3200
+Kalpetta,Ambalavayal,21.3,Ambalavayal Auditorium,170,3400
+Kalpetta,Muttil,14.5,Muttil High School,140,2800
+Thalassery,Payyannur,22.4,Payyannur School,160,3200
+Thalassery,Mattannur,18.9,Mattannur Church,150,3000
+Thalassery,Iritty,16.2,Iritty Community Hall,180,3600
+Thalassery,Taliparamba,20.6,Taliparamba Temple,140,2800
+Thalassery,Kannur Town,27.3,Kannur Town Hall,200,4000
+Thalassery,Panoor,19.5,Panoor School,170,3400
+Thalassery,Koothuparamba,22,Koothuparamba Auditorium,150,3000
+Thalassery,Cherupuzha,25.4,Cherupuzha Church,130,2600
+Thalassery,Sreekandapuram,23.8,Sreekandapuram School,140,2800
+Kanhangad,Manjeshwar,15.2,Manjeshwar Temple,200,4000
+Kanhangad,Uppala,17.3,Uppala School,180,3600
+Kanhangad,Nileshwar,12.7,Nileshwar Community Hall,160,3200
+Kanhangad,Bekal,10.5,Bekal Auditorium,150,3000
+Kanhangad,Kasaragod Town,20.4,Kasaragod Town Hall,200,4000
+Kanhangad,Cheruvathur,13.6,Cheruvathur School,170,3400
+Kanhangad,Kumbla,22.1,Kumbla Temple,140,2800
+Kanhangad,Trikaripur,18.2,Trikaripur Auditorium,160,3200
+Kanhangad,Badiadka,21.8,Badiadka High School,150,3000
