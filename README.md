@@ -5,13 +5,14 @@ This project models a disaster relief logistics problem using linear programming
 The model is based on a real-world inspired scenario from the Kerala Floods of 2018, originally explored in a seminar. It implements optimization logic in Python using the PuLP library and outputs results to a formatted Excel file.
 
 Key Features
-Linear programming model to optimize transportation logistics.
 
-Incorporates multiple constraints: vehicle capacity, supply limits, demand satisfaction, and trip limits.
-
-Outputs detailed, merged, and summarized results in Excel.
-
-Includes cost breakdowns and total metrics.
+    Linear programming model to optimize transportation logistics.
+    
+    Incorporates multiple constraints: vehicle capacity, supply limits, demand satisfaction, and trip limits.
+    
+    Outputs detailed, merged, and summarized results in Excel.
+    
+    Includes cost breakdowns and total metrics.
 
 Technologies Used
 
